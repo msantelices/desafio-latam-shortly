@@ -1,0 +1,17 @@
+body {
+	font-family: 'Roboto', sans-serif;
+	font-size: 16px;
+}
+
+.bg-primary {
+	background-color: #07A0C3!important;
+}
+
+.btn-primary {
+	background-color: #07A0C3;
+	border-color: #07A0C3;
+}
+
+.disabled {
+	pointer-events: none!important;
+}
